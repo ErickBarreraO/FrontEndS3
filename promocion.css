@@ -1,0 +1,14 @@
+.backgorund{
+    position: relative;
+}
+.boton{
+    position: absolute;
+    font-size: xx-large;
+    top: 230%;
+    left: 400px;
+    padding: 30px;
+    color: #0000000;
+    background-color: #f0dc00;
+    border-radius: 6px;
+    border: 2px solid #bdad04;
+}
